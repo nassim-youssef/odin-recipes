@@ -1,3 +1,7 @@
+*{
+  text-align: center;
+}
+
 .header {
   font-family: 'Courier New', Courier, monospace;
   color: rgb(255, 145, 0);
