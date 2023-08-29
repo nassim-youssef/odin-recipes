@@ -10,3 +10,20 @@
   margin: 30px 50px;
   padding: 8px;
 }
+
+/* Styles the links: recipes liks */
+a {
+  color: rgb(207, 80, 7);
+  font-size: large;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: black;
+  color: rgb(255, 94, 0);
+}
+
+li {
+  list-style: none;
+}
